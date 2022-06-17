@@ -10,4 +10,4 @@ class Solution:
                 left = mid + 1
             else:
                 return mid
-        return - 1 
+        return - 1
